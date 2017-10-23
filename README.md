@@ -2,7 +2,7 @@
 
 - Date: Wednesday, 25 October 2017
 - Time: 5:30 PM to 8:30 PM
-- Location: Xero, 1/6 Elizabeth Street, Hawthorn, VIC 3122 ([map](https://www.google.com.au/maps/place/Xero/@-37.822539,145.031989,15z/))
+- Location: Xero Office (above Bawa cafe), 248 Burwood Road, Hawthorn, VIC 3122 ([map](https://www.google.com.au/maps/place/Xero/@-37.822539,145.031989,15z/))
 
 ## What is [Hacktoberfest](Hacktoberfest)?
 
