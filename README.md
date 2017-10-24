@@ -12,6 +12,9 @@ If you haven't already, you should **[sign up here](https://hacktoberfest.digita
 
 > If you open up four pull requests between October 1 and October 31, you'll win a free, limited edition Hacktoberfest T-shirt.
 
+### Stats 📈
+Hacktoberfest statistics are available, if you want to see how you're going. Replace `username` with your GitHub username [`https://hacktoberfest.digitalocean.com/stats/username`](https://hacktoberfest.digitalocean.com/stats/).
+
 ## Open Source
 
 - *TODO*
