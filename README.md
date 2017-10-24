@@ -23,7 +23,7 @@ If you want to see how you're progressing, you can check out your stats at: [`ht
 
 ### Recommended Projects
 
-The following is a sample list of projects that could be good candidates to contribute to. I will gladly accept pull requests to this repo so please feel free to add your own below!
+The following is a sample list of projects that could be good candidates to contribute to. I will gladly accept pull requests to this repo so please feel free to [fork it](https://github.com/josh-/juniordev-hacktoberfest/fork) add your own below!
 
 #### Documentation
 
