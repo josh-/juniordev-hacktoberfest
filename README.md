@@ -36,6 +36,7 @@ The following is a sample list of projects that could be good candidates to cont
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos/issues)
     - [Open issues](https://github.com/OpenGenus/cosmos/issues)
 - [Cutwell/Hacktoberfest-Census](https://github.com/Cutwell/Hacktoberfest-Census/)
+- [monPlan/AppleSeed](https://github.com/monPlan/AppleSeed/issues) 
 
 ##### Javascript
 
