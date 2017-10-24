@@ -12,6 +12,9 @@ If you haven't already, you should **[sign up here](https://hacktoberfest.digita
 
 > If you open up four pull requests between October 1 and October 31, you'll win a free, limited edition Hacktoberfest T-shirt.
 
+### Stats 📈
+If you want to see how you're progressing, you can check out your stats at: [`https://hacktoberfest.digitalocean.com/stats/username`](https://hacktoberfest.digitalocean.com/stats/), just replace `username` with your GitHub username.
+
 ## Open Source
 
 - *TODO*
@@ -40,7 +43,9 @@ The following is a sample list of projects that could be good candidates to cont
 
 ##### Javascript
 
-- [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)
+- [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker/issues)
+- [hugomd/horloge](https://github.com/hugomd/horloge/issues)
+- [hugomd/vyltr](https://github.com/hugomd/vyltr/issues)
 
 ### Finding projects to contribute to
 
