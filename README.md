@@ -43,7 +43,9 @@ The following is a sample list of projects that could be good candidates to cont
 
 ##### Javascript
 
-- [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)
+- [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker/issues)
+- [hugomd/horloge](https://github.com/hugomd/horloge/issues)
+- [hugomd/vyltr](https://github.com/hugomd/vyltr/issues)
 
 ### Finding projects to contribute to
 
