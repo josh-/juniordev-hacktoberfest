@@ -17,7 +17,7 @@ If you want to see how you're progressing, you can check out your stats at: [`ht
 
 ## Open Source
 
-- *TODO*
+- If you're new to Git and contributing to open source, [Digital Ocean have a fantastic guide available](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) on how to create your first Pull Request.
 
 ## Resources
 
