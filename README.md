@@ -37,7 +37,7 @@ The following is a sample list of projects that could be good candidates to cont
 - [electron/electron](https://github.com/electron/electron)
     - [Documentation translations folder](https://github.com/electron/electron/tree/master/docs-translations)
 - [Microsoft/Localization](https://github.com/Microsoft/Localization)
-    - [Visual Studio Code Community Localization Project](Visual Studio Code Community Localization Project)
+    - [Visual Studio Code Community Localization Project](https://github.com/Microsoft/Localization/wiki/Visual-Studio-Code-Community-Localization-Project)
 - [gitpoint/git-point](https://github.com/gitpoint/git-point)
     - [Language translation issue](https://github.com/gitpoint/git-point/issues/439)
 
