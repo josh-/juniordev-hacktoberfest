@@ -1,0 +1,14 @@
+# A CODEOWNERS file is used to define individuals or teams that 
+# are responsible for code in a repository.
+#
+# Code owners are automatically requested for review when someone 
+# opens a pull request that modifies code that they own. When 
+# someone with admin permissions has enabled required reviews, 
+# they can optionally require approval from a code owner.
+#
+# More information can be found here:
+# https://help.github.com/articles/about-codeowners/
+
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+*       @josh-
