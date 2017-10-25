@@ -29,23 +29,56 @@ The following is a sample list of projects that could be good candidates to cont
 
 - [freeCodeCamp/guides](https://github.com/freeCodeCamp/guides)
     - ["What can I write an article about?"](https://github.com/freeCodeCamp/guides#what-can-i-write-an-article-about)
+    - [Explanatory blog post](https://medium.freecodecamp.org/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307)
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python)
+##### Translation
+
+- [electron/electron](https://github.com/electron/electron)
+    - [Documentation translations folder](https://github.com/electron/electron/tree/master/docs-translations)
+- [Microsoft/Localization](https://github.com/Microsoft/Localization)
+    - [Visual Studio Code Community Localization Project](Visual Studio Code Community Localization Project)
+- [gitpoint/git-point](https://github.com/gitpoint/git-point)
+    - [Language translation issue](https://github.com/gitpoint/git-point/issues/439)
 
 #### Coding
 
 ##### All Languages
 
+- [josh-/juniordev-hacktoberfest](https://github.com/josh-/juniordev-hacktoberfest/)
+    - [Open issues](https://github.com/josh-/juniordev-hacktoberfest/issues)
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos/issues)
     - [Open issues](https://github.com/OpenGenus/cosmos/issues)
 - [Cutwell/Hacktoberfest-Census](https://github.com/Cutwell/Hacktoberfest-Census/)
 - [monPlan/AppleSeed](https://github.com/monPlan/AppleSeed/issues) 
+
+##### HTML/CSS/Javascript
+
+- [juniordevio/splashpage](https://github.com/juniordevio/splashpage)
+    - [Open issues](https://github.com/juniordevio/splashpage/issues)
 
 ##### Javascript
 
 - [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker/issues)
 - [hugomd/horloge](https://github.com/hugomd/horloge/issues)
 - [hugomd/vyltr](https://github.com/hugomd/vyltr/issues)
+- [electron/electron](https://github.com/electron/electron)
+    - [Hacktoberfest issues](https://github.com/electron/electron/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+
+##### Ruby
+
+- [homebrew/homebrew-core](https://github.com/homebrew/homebrew-core)
+    - [Good first issues](https://github.com/homebrew/homebrew-core/labels/hacktoberfest)
+- [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask)
+    - [Hacktoberfest issue](https://github.com/caskroom/homebrew-cask/issues/39060)
+    - [Cask requests](https://github.com/caskroom/homebrew-cask/labels/hacktoberfest)
+- [julianguyen/ifme](https://github.com/julianguyen/ifme/)
+    - [Hacktoberfest issues](https://github.com/julianguyen/ifme/labels/hacktoberfest)
+
+##### Python
+
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+    - [Hacktoberfest issues](https://github.com/pytest-dev/pytest/labels/hacktoberfest)
 
 ### Finding projects to contribute to
 
