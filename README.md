@@ -15,7 +15,7 @@ If you haven't already, you should :pencil: **[sign up here](https://hacktoberfe
 ### Stats 📈
 If you want to see how you're progressing, you can check out your stats at: [`https://hacktoberfest.digitalocean.com/stats/username`](https://hacktoberfest.digitalocean.com/stats/), just replace `username` with your GitHub username.
 
-## Open Source
+## Open Source :octocat:
 
 - If you're new to Git and contributing to open source, [Digital Ocean :dolphin: have a fantastic guide available](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) on how to create your first Pull Request.
 
