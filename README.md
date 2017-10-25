@@ -2,13 +2,13 @@
 
 - Date: Wednesday, 25 October 2017
 - Time: 5:30 PM to 8:30 PM
-- Location: Xero Office (above Bawa cafe), 248 Burwood Road, Hawthorn, VIC 3122 ([map](https://www.google.com.au/maps/place/Xero/@-37.822539,145.031989,15z/))
+- Location: Xero Office (above Bawa cafe:coffee:), 248 Burwood Road, Hawthorn, VIC 3122 ([map](https://www.google.com.au/maps/place/Xero/@-37.822539,145.031989,15z/))
 
-## What is [Hacktoberfest](Hacktoberfest)?
+## What is :beers:[Hacktoberfest](Hacktoberfest):jack_o_lantern:?
 
-If you haven't already, you should **[sign up here](https://hacktoberfest.digitalocean.com)**!
+If you haven't already, you should :pencil: **[sign up here](https://hacktoberfest.digitalocean.com)**!
 
-> Hacktoberfest—brought to you by DigitalOcean and GitHub—is a month-long celebration of open source software.
+> Hacktoberfest—brought to you by DigitalOcean:whale: and GitHub:octocat:—is a month-long celebration of open source software.
 
 > If you open up four pull requests between October 1 and October 31, you'll win a free, limited edition Hacktoberfest T-shirt.
 
@@ -17,13 +17,13 @@ If you want to see how you're progressing, you can check out your stats at: [`ht
 
 ## Open Source
 
-- If you're new to Git and contributing to open source, [Digital Ocean have a fantastic guide available](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) on how to create your first Pull Request.
+- If you're new to Git and contributing to open source, [Digital Ocean :dolphin: have a fantastic guide available](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) on how to create your first Pull Request.
 
-## Resources
+## Resources :volcano:
 
 ### Recommended Projects
 
-The following is a sample list of projects that could be good candidates to contribute to. I will gladly accept pull requests to this repo so please feel free to [fork it](https://github.com/josh-/juniordev-hacktoberfest/fork) add your own below!
+The following is a sample list of projects that could be good candidates to contribute to. I will gladly accept pull requests to this repo so please feel free to :fork_and_knife: [fork it](https://github.com/josh-/juniordev-hacktoberfest/fork) add your own below!
 
 #### Documentation
 
@@ -43,7 +43,7 @@ The following is a sample list of projects that could be good candidates to cont
 
 #### Coding
 
-##### All Languages
+##### All Languages :earth_asia:
 
 - [josh-/juniordev-hacktoberfest](https://github.com/josh-/juniordev-hacktoberfest/)
     - [Open issues](https://github.com/josh-/juniordev-hacktoberfest/issues)
@@ -52,12 +52,12 @@ The following is a sample list of projects that could be good candidates to cont
 - [Cutwell/Hacktoberfest-Census](https://github.com/Cutwell/Hacktoberfest-Census/)
 - [monPlan/AppleSeed](https://github.com/monPlan/AppleSeed/issues) 
 
-##### HTML/CSS/Javascript
+##### HTML/CSS/Javascript :spider:
 
 - [juniordevio/splashpage](https://github.com/juniordevio/splashpage)
     - [Open issues](https://github.com/juniordevio/splashpage/issues)
 
-##### Javascript
+##### Javascript :koala:
 
 - [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker/issues)
 - [hugomd/horloge](https://github.com/hugomd/horloge/issues)
@@ -65,7 +65,7 @@ The following is a sample list of projects that could be good candidates to cont
 - [electron/electron](https://github.com/electron/electron)
     - [Hacktoberfest issues](https://github.com/electron/electron/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
 
-##### Ruby
+##### Ruby :gem:
 
 - [homebrew/homebrew-core](https://github.com/homebrew/homebrew-core)
     - [Good first issues](https://github.com/homebrew/homebrew-core/labels/hacktoberfest)
@@ -75,12 +75,12 @@ The following is a sample list of projects that could be good candidates to cont
 - [julianguyen/ifme](https://github.com/julianguyen/ifme/)
     - [Hacktoberfest issues](https://github.com/julianguyen/ifme/labels/hacktoberfest)
 
-##### Python
+##### Python :snake:
 
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
     - [Hacktoberfest issues](https://github.com/pytest-dev/pytest/labels/hacktoberfest)
 
-### Finding projects to contribute to
+### Finding projects to contribute to :seedling:
 
 The [Hacktoberfest Stats](https://hacktoberfest.digitalocean.com/stats/) page shows the most popular repos that have been worked on during Hacktoberfest.
 
