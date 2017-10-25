@@ -56,6 +56,7 @@ The following is a sample list of projects that could be good candidates to cont
 
 - [juniordevio/splashpage](https://github.com/juniordevio/splashpage)
     - [Open issues](https://github.com/juniordevio/splashpage/issues)
+- [GeckoDM/GeckoDownloadManager](https://github.com/GeckoDM/GeckoDownloadManager)
 
 ##### Javascript
 
