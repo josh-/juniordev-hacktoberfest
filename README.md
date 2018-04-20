@@ -21,15 +21,20 @@ If you want to see how you're progressing, you can check out your stats at: [`ht
 
 ## Resources :volcano:
 
-### Recommended Projects
-
-The following is a sample list of projects that could be good candidates :alien: to contribute to. I will gladly accept pull requests to this repo so please feel free to :fork_and_knife: [fork it](https://github.com/josh-/juniordev-hacktoberfest/fork) add your own below!
-
 ### Example Files
 
 - [Example of a LICENSE file](LICENSE)
 
 - [Example of a CODEOWNERS file](CODEOWNERS)
+
+### Tools
+
+- [tbroadley/github-spellcheck-cli](https://github.com/tbroadley/github-spellcheck-cli)
+    - Automatically find and fix spelling mistakes in repositories
+
+### Recommended Projects
+
+The following is a sample list of projects that could be good candidates :alien: to contribute to. I will gladly accept pull requests to this repo so please feel free to :fork_and_knife: [fork it](https://github.com/josh-/juniordev-hacktoberfest/fork) add your own below!
 
 #### Documentation
 
