@@ -85,7 +85,7 @@ This event is bound by the [Hacktoberfest Code of Conduct](https://do.co/hacktob
         <a href="https://github.com/vatsalyagoel">Vatsalya Goel</a>
       </td>
       <td align="center" valign="top">
-        <img width="150" height="150" src="https://www.dropbox.com/s/dl/kmsu7zm9vwz1be1/avatar.jpg">
+        <img width="150" height="150" src="https://ucd9f5c181dadc8a8d193d28e34b.dl.dropboxusercontent.com/cd/0/inline/ATOAvCuqsuChGIqf-GsPmrVSZWfHycRtuU-ilP4CF3NSRTs_SxKLoiz0oAH5Vfl3BGn6qpv0eIjJeRJGjnG_4BelDR3js4vsNhMJGX_EjyIY50CeNCeC7hQfKWNfmRJLzL-c1O5cprW9Ikn_hwq1DZUFXiVwrGPLBx-M15Yjz9zsCH0tqoRfw7T1mxUMRtP5L1M_5GgfuObcNYIvvl5P5KhA/file">
         <br>
         <span>Retno Ayu Widyanti</span>
       </td>
