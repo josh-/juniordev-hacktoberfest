@@ -1,103 +1,96 @@
-# [JuniorDev Does Hacktoberfest 2017](https://www.meetup.com/Junior-Developers-Melbourne/events/244100075/)
+# [JuniorDev Does Hacktoberfest 2018](https://meetup.com/en-AU/Junior-Developers-Melbourne/events/255411680/)
 
-- Date: Wednesday, 25 October 2017
-- Time: 5:30 PM to 8:30 PM
-- Location: Xero Office (above Bawa cafe:coffee:), 248 Burwood Road, Hawthorn, VIC 3122 ([map](https://www.google.com.au/maps/place/Xero/@-37.822539,145.031989,15z/))
+Date: Thursday, 18 October 2018
+Time: 6:00 PM to 8:30 PM
+Location: Zendesk, 67 Queen Street (Side Entrance), Melbourne VIC 3000 ([map](https://goo.gl/maps/p9Hh9T4T67D2))
 
-## What is :beers:[Hacktoberfest](Hacktoberfest):jack_o_lantern:?
+## Getting Started
 
-If you haven't already, you should :pencil: **[sign up here](https://hacktoberfest.digitalocean.com)**!
+1. [Sign up to Hacktoberfest](https://hacktoberfest.digitalocean.com)
+2. _optionally_ [Sign up to Microsoft's Hacktoberfest challenge](https://aka.ms/hacktoberfestshirt) ([more info here](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/))
 
-> Hacktoberfest—brought to you by DigitalOcean:whale: and GitHub:octocat:—is a month-long celebration of open source software.
+## Code of Conduct
 
-> If you open up four pull requests between October 1 and October 31, you'll win a free, limited edition Hacktoberfest T-shirt.
+This event is bound by the [Hacktoberfest Code of Conduct](https://do.co/hacktoberconduct) - please give it a read.
 
-### Stats 📈
-If you want to see how you're progressing, you can check out your stats at: [`https://hacktoberfest.digitalocean.com/stats/username`](https://hacktoberfest.digitalocean.com/stats/), just replace `username` with your GitHub username.
+## What is [Hacktoberfest](https://hacktoberfest.digitalocean.com)?
 
-## Open Source :octocat:
+> Hacktoberfest — brought to you by DigitalOcean and GitHub — is a month-long celebration of open source software.
 
-- If you're new to Git and contributing to open source, [Digital Ocean :dolphin: have a fantastic guide available](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) on how to create your first Pull Request.
+> If you open up **five** pull requests between October 1 and October 31, you'll win a free, limited edition Hacktoberfest T-shirt.
 
-## Resources :volcano:
+## Open Source
 
-### Example Files
+- If you're new to Git and contributing to open source, [Digital Ocean have a fantastic guide available](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) on how to create your first Pull Request.
 
-- [Example of a LICENSE file](LICENSE)
+## Mentors
 
-- [Example of a CODEOWNERS file](CODEOWNERS)
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/josh-.png?s=150">
+        <br>
+        <a href="https://github.com/josh-">Josh Parnham</a>
+        <p>JuniorDev Crew</p>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/daviddeejjames.png?s=150">
+        <br>
+            <a href="https://github.com/daviddeejjames">David James</a>
+        <p>JuniorDev Crew</p>
+      </td>
+      <td align="center" width="20%" valign="top">
+        <img width="150" height="150" src="https://github.com/BTheunissen.png?s=150">
+        <br>
+            <a href="https://github.com/BTheunissen">Ben Theunissen</a>
+        <p>JuniorDev Crew</p>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/natyv.png?s=150">
+        <br>
+        <a href="https://github.com/natyv">Pranati Vyas</a>
+        <p>JuniorDev Crew</p>
+        <br>
+      </td>
+     </tr>
+     <tr>
+      <td align="center" width="20%" valign="top">
+        <img width="150" height="150" src="https://github.com/hugomd.png?s=150">
+        <br>
+            <a href="https://github.com/hugomd">Hugo Müller-Downing</a>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/terencehuynh.png?s=150">
+        <br>
+        <a href="https://github.com/terencehuynh">Terence Huynh</a>
+        <br>
+      </td>
+      <td align="center" width="20%" valign="top">
+        <img width="150" height="150" src="https://github.com/nm-t.png?s=150">
+        <br>
+            <a href="https://github.com/nm-t">Tali</a>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/Pancrisp.png?s=150">
+        <br>
+        <a href="https://github.com/Pancrisp">Ervin Chua</a>
+        <br>
+      </td>
+     </tr>
+     <tr>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/vatsalyagoel.png?s=150">
+        <br>
+        <a href="https://github.com/vatsalyagoel">Vatsalya Goel</a>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://ucd9f5c181dadc8a8d193d28e34b.dl.dropboxusercontent.com/cd/0/inline/ATOAvCuqsuChGIqf-GsPmrVSZWfHycRtuU-ilP4CF3NSRTs_SxKLoiz0oAH5Vfl3BGn6qpv0eIjJeRJGjnG_4BelDR3js4vsNhMJGX_EjyIY50CeNCeC7hQfKWNfmRJLzL-c1O5cprW9Ikn_hwq1DZUFXiVwrGPLBx-M15Yjz9zsCH0tqoRfw7T1mxUMRtP5L1M_5GgfuObcNYIvvl5P5KhA/file">
+        <br>
+        <span>Retno Ayu Widyanti</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Tools
-
-- [tbroadley/github-spellcheck-cli](https://github.com/tbroadley/github-spellcheck-cli)
-    - Automatically find and fix spelling mistakes in repositories
-
-### Recommended Projects
-
-The following is a sample list of projects that could be good candidates :alien: to contribute to. I will gladly accept pull requests to this repo so please feel free to :fork_and_knife: [fork it](https://github.com/josh-/juniordev-hacktoberfest/fork) add your own below!
-
-#### Documentation
-
-- [freeCodeCamp/guides](https://github.com/freeCodeCamp/guides)
-    - ["What can I write an article about?"](https://github.com/freeCodeCamp/guides#what-can-i-write-an-article-about)
-    - [Explanatory blog post](https://medium.freecodecamp.org/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307)
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
-- [vinta/awesome-python](https://github.com/vinta/awesome-python)
-##### Translation
-
-- [electron/electron](https://github.com/electron/electron)
-    - [Documentation translations folder](https://github.com/electron/electron/tree/master/docs-translations)
-- [Microsoft/Localization](https://github.com/Microsoft/Localization)
-    - [Visual Studio Code Community Localization Project](https://github.com/Microsoft/Localization/wiki/Visual-Studio-Code-Community-Localization-Project)
-- [gitpoint/git-point](https://github.com/gitpoint/git-point)
-    - [Language translation issue](https://github.com/gitpoint/git-point/issues/439)
-
-#### Coding
-
-##### All Languages :earth_asia:
-
-- [josh-/juniordev-hacktoberfest](https://github.com/josh-/juniordev-hacktoberfest/)
-    - [Open issues](https://github.com/josh-/juniordev-hacktoberfest/issues)
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos/issues)
-    - [Open issues](https://github.com/OpenGenus/cosmos/issues)
-- [Cutwell/Hacktoberfest-Census](https://github.com/Cutwell/Hacktoberfest-Census/)
-- [monPlan/AppleSeed](https://github.com/monPlan/AppleSeed/issues) 
-
-##### HTML/CSS/Javascript :spider:
-
-- [juniordevio/splashpage](https://github.com/juniordevio/splashpage)
-    - [Open issues](https://github.com/juniordevio/splashpage/issues)
-- [GeckoDM/GeckoDownloadManager](https://github.com/GeckoDM/GeckoDownloadManager)
-
-##### Javascript :koala:
-
-- [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker/issues)
-- [hugomd/horloge](https://github.com/hugomd/horloge/issues)
-- [hugomd/vyltr](https://github.com/hugomd/vyltr/issues)
-- [electron/electron](https://github.com/electron/electron)
-    - [Hacktoberfest issues](https://github.com/electron/electron/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
-
-##### Ruby :gem:
-
-- [homebrew/homebrew-core](https://github.com/homebrew/homebrew-core)
-    - [Good first issues](https://github.com/homebrew/homebrew-core/labels/hacktoberfest)
-- [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask)
-    - [Hacktoberfest issue](https://github.com/caskroom/homebrew-cask/issues/39060)
-    - [Cask requests](https://github.com/caskroom/homebrew-cask/labels/hacktoberfest)
-- [julianguyen/ifme](https://github.com/julianguyen/ifme/)
-    - [Hacktoberfest issues](https://github.com/julianguyen/ifme/labels/hacktoberfest)
-
-##### Python :snake:
-
-- [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-    - [Hacktoberfest issues](https://github.com/pytest-dev/pytest/labels/hacktoberfest)
-
-### Finding projects to contribute to :seedling:
-
-The [Hacktoberfest Stats](https://hacktoberfest.digitalocean.com/stats/) page shows the most popular repos that have been worked on during Hacktoberfest.
-
-Also, the following GitHub labels contain a good selection of tasks that are available:
-
-- ["hacktoberfest" GitHub label](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
-- ["first timers only" GitHub label](https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue)
-- ["for new contributors" GitHub label](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
+And if you'd like, [add yourself to above list of mentors](https://github.com/josh-/juniordev-hacktoberfest/edit/master/README.md)!
