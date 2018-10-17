@@ -1,8 +1,10 @@
 # [JuniorDev Does Hacktoberfest 2018](https://meetup.com/en-AU/Junior-Developers-Melbourne/events/255411680/)
 
-Date: Thursday, 18 October 2018
-Time: 6:00 PM to 8:30 PM
-Location: Zendesk, 67 Queen Street (Side Entrance), Melbourne VIC 3000 ([map](https://goo.gl/maps/p9Hh9T4T67D2))
+**Date**: Thursday, 18 October 2018
+
+**Time**: 6:00 PM to 8:30 PM
+
+**Location**: Zendesk, 67 Queen Street (Side Entrance), Melbourne VIC 3000 ([map](https://goo.gl/maps/p9Hh9T4T67D2))
 
 ## Getting Started
 
