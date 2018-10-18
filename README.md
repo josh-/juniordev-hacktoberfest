@@ -15,6 +15,8 @@ If you need a good first PR, add yourself to the [participants](participants) fo
 
 A collection of other repositories to contribute to is [available here](Resources.md).
 
+You can view all GitHub issues with the labels "hacktoberfest" and "good first issue" [here](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+label%3A"good+first+issue"+).
+
 ## Code of Conduct
 
 This event is bound by the [Hacktoberfest Code of Conduct](https://do.co/hacktoberconduct) - please give it a read.
