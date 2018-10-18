@@ -1,13 +1,21 @@
 # [JuniorDev Does Hacktoberfest 2018](https://meetup.com/en-AU/Junior-Developers-Melbourne/events/255411680/)
 
-Date: Thursday, 18 October 2018
-Time: 6:00 PM to 8:30 PM
-Location: Zendesk, 67 Queen Street (Side Entrance), Melbourne VIC 3000 ([map](https://goo.gl/maps/p9Hh9T4T67D2))
+**Date**: Thursday, 18 October 2018
+
+**Time**: 6:00 PM to 8:30 PM
+
+**Location**: Zendesk, 67 Queen Street (Side Entrance), Melbourne VIC 3000 ([map](https://goo.gl/maps/p9Hh9T4T67D2))
 
 ## Getting Started
 
 1. [Sign up to Hacktoberfest](https://hacktoberfest.digitalocean.com)
-2. _optionally_ [Sign up to Microsoft's Hacktoberfest challenge](https://aka.ms/hacktoberfestshirt) ([more info here](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/))
+2. [Sign up to Microsoft's Hacktoberfest challenge](https://aka.ms/hacktoberfestshirt) ([more info here](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/))
+
+If you need a good first PR, add yourself to the [participants](participants) folder!
+
+A collection of other repositories to contribute to is [available here](Resources.md).
+
+You can view all GitHub issues with the labels "hacktoberfest" and "good first issue" [here](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+label%3A"good+first+issue"+).
 
 ## Code of Conduct
 
@@ -85,9 +93,14 @@ This event is bound by the [Hacktoberfest Code of Conduct](https://do.co/hacktob
         <a href="https://github.com/vatsalyagoel">Vatsalya Goel</a>
       </td>
       <td align="center" valign="top">
-        <img width="150" height="150" src="https://ucd9f5c181dadc8a8d193d28e34b.dl.dropboxusercontent.com/cd/0/inline/ATOAvCuqsuChGIqf-GsPmrVSZWfHycRtuU-ilP4CF3NSRTs_SxKLoiz0oAH5Vfl3BGn6qpv0eIjJeRJGjnG_4BelDR3js4vsNhMJGX_EjyIY50CeNCeC7hQfKWNfmRJLzL-c1O5cprW9Ikn_hwq1DZUFXiVwrGPLBx-M15Yjz9zsCH0tqoRfw7T1mxUMRtP5L1M_5GgfuObcNYIvvl5P5KhA/file">
+        <img width="150" height="150" src="https://d.pr/i/98RvYx/oUinocCfrb.jpg">
         <br>
         <span>Retno Ayu Widyanti</span>
+      </td>
+        <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/lorderikir.png?s=150">
+        <br>
+            <a href="https://github.com/lorderikir">Eric Jiang</a>
       </td>
     </tr>
   </tbody>
