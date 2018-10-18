@@ -92,7 +92,7 @@ This event is bound by the [Hacktoberfest Code of Conduct](https://do.co/hacktob
         <span>Retno Ayu Widyanti</span>
       </td>
         <td align="center" valign="top">
-        <img width="150" height="150" src="https://avatars0.githubusercontent.com/u/5687681?s=460&v=4">
+        <img width="150" height="150" src="https://github.com/lorderikir.png?s=150">
         <br>
             <a href="https://github.com/lorderikir">Eric Jiang</a>
       </td>
