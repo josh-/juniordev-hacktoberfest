@@ -75,9 +75,9 @@ This event is bound by the [Hacktoberfest Code of Conduct](https://do.co/hacktob
         <br>
       </td>
       <td align="center" width="20%" valign="top">
-        <img width="150" height="150" src="https://github.com/nm-t.png?s=150">
+        <img width="150" height="150" src="https://pbs.twimg.com/media/Dpx7aOyV4AAQbhd.jpg">
         <br>
-            <a href="https://github.com/nm-t">Tali</a>
+            <a href="https://github.com/nm-t">Talinoob Winrar</a>
       </td>
       <td align="center" valign="top">
         <img width="150" height="150" src="https://github.com/Pancrisp.png?s=150">
