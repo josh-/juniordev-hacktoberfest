@@ -11,6 +11,8 @@
 1. [Sign up to Hacktoberfest](https://hacktoberfest.digitalocean.com)
 2. _optionally_ [Sign up to Microsoft's Hacktoberfest challenge](https://aka.ms/hacktoberfestshirt) ([more info here](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/))
 
+If you need a good first PR, add yourself to the [participants](participants) folder!
+
 ## Code of Conduct
 
 This event is bound by the [Hacktoberfest Code of Conduct](https://do.co/hacktoberconduct) - please give it a read.
