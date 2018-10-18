@@ -13,6 +13,8 @@
 
 If you need a good first PR, add yourself to the [participants](participants) folder!
 
+A collection of other repositories to contribute to is [available here](Resources.md).
+
 ## Code of Conduct
 
 This event is bound by the [Hacktoberfest Code of Conduct](https://do.co/hacktoberconduct) - please give it a read.
