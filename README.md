@@ -9,7 +9,7 @@
 ## Getting Started
 
 1. [Sign up to Hacktoberfest](https://hacktoberfest.digitalocean.com)
-2. [Sign up to Microsoft's Hacktoberfest challenge](https://aka.ms/hacktoberfestshirt) ([more info here](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/))
+2. -[Sign up to Microsoft's Hacktoberfest challenge](https://aka.ms/hacktoberfestshirt) ([more info here](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/))
 
 If you need a good first PR, add yourself to the [participants](participants) folder!
 
