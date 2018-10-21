@@ -107,3 +107,6 @@ This event is bound by the [Hacktoberfest Code of Conduct](https://do.co/hacktob
 </table>
 
 And if you'd like, [add yourself to above list of mentors](https://github.com/josh-/juniordev-hacktoberfest/edit/master/README.md)!
+
+## Don't forget to have an enjoyable Hacktoberfest!
+![](https://i.imgur.com/1kk1yAs.jpg)
